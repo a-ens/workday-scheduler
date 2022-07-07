@@ -12,4 +12,4 @@ This application is totally free for anyone to use.
 ## Demo of the site
 <img src="./assets/demo-image.png">
 
-Note: code assigning 'past' 'present' and 'future' tags is not functional. This site still needs some work to meet the criteria, but I am stuck and out of time.
+Note: code assigning 'past' 'present' and 'future' tags is not functional. This site still needs plenty of work to meet the criteria, but I am stuck and running out of time. Will revisit.
